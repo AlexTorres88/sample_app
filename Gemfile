@@ -6,6 +6,7 @@ ruby '2.7.2'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.0.3', '>= 6.0.3.4'
 gem 'bootstrap-sass', '3.4.1'
+gem 'faker', '2.11.0'
 # Use Active Storage variant
 gem 'image_processing', '~> 1.2'
 gem 'mini_magick',  '4.9.5'
